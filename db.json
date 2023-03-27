@@ -1,0 +1,27 @@
+{
+    "tarefas": {
+        "tarefas_pendentes": [
+            {
+                "titulo_tarefa": "lorem ipsum",
+                "descricao_tarefa": "lorem ipsum dolor sit amet",
+                "data_criacao": "27/03/2023",
+                "status_tarefa": "Pendente"
+            },
+            {
+                "titulo_tarefa": "lorem ipsum2",
+                "descricao_tarefa": "lorem ipsum dolor sit amet",
+                "data_criacao": "27/03/2023",
+                "status_tarefa": "Pendente"
+            }
+        ],
+        "tarefas_concluidas": [
+            {
+                "titulo_tarefa": "lorem ipsum",
+                "descricao_tarefa": "lorem ipsum dolor sit amet",
+                "data_criacao": "27/03/2023",
+                "status_tarefa": "Concluída",
+                "data_conclusao": "27/03/2023"
+            }
+        ]
+    }
+}
